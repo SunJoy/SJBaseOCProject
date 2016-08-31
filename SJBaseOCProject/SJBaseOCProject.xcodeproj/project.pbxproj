@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		7B449F351D6FEF1B0015413B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B449F341D6FEF1B0015413B /* main.m */; };
 		7B449F381D6FEF1B0015413B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B449F371D6FEF1B0015413B /* AppDelegate.m */; };
-<<<<<<< HEAD
 		7B449F3E1D6FEF1B0015413B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B449F3C1D6FEF1B0015413B /* Main.storyboard */; };
 		7B449F401D6FEF1B0015413B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B449F3F1D6FEF1B0015413B /* Assets.xcassets */; };
 		7B449F431D6FEF1B0015413B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B449F411D6FEF1B0015413B /* LaunchScreen.storyboard */; };
@@ -24,12 +23,6 @@
 		7BB8623A1D74373000E24A1A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BB862391D74373000E24A1A /* ViewController.m */; };
 		7BB862421D7437FF00E24A1A /* SJCommonObj.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BB862411D7437FF00E24A1A /* SJCommonObj.m */; };
 		7BB862451D74388700E24A1A /* SJBaseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BB862441D74388700E24A1A /* SJBaseModel.m */; };
-=======
-		7B449F3B1D6FEF1B0015413B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B449F3A1D6FEF1B0015413B /* ViewController.m */; };
-		7B449F3E1D6FEF1B0015413B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B449F3C1D6FEF1B0015413B /* Main.storyboard */; };
-		7B449F401D6FEF1B0015413B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B449F3F1D6FEF1B0015413B /* Assets.xcassets */; };
-		7B449F431D6FEF1B0015413B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B449F411D6FEF1B0015413B /* LaunchScreen.storyboard */; };
->>>>>>> 42ad9344206ec022315e49f4bbcf13a149503d3f
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,7 +30,6 @@
 		7B449F341D6FEF1B0015413B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		7B449F361D6FEF1B0015413B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		7B449F371D6FEF1B0015413B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-<<<<<<< HEAD
 		7B449F3D1D6FEF1B0015413B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7B449F3F1D6FEF1B0015413B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../Assets.xcassets; sourceTree = "<group>"; };
 		7B449F421D6FEF1B0015413B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -64,16 +56,8 @@
 		7BB8623F1D74377900E24A1A /* NotificationMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NotificationMacro.h; sourceTree = "<group>"; };
 		7BB862401D7437FF00E24A1A /* SJCommonObj.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJCommonObj.h; sourceTree = "<group>"; };
 		7BB862411D7437FF00E24A1A /* SJCommonObj.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJCommonObj.m; sourceTree = "<group>"; };
-		7BB862431D74388700E24A1A /* SJBaseModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJBaseModel.h; sourceTree = "<group>"; };
+		7BB862431D74388700E24A1A /* 42ad9344206ec022315e49f4bbcf13a149503d3f SJBaseModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SJBaseModel.h; sourceTree = "<group>"; };
 		7BB862441D74388700E24A1A /* SJBaseModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SJBaseModel.m; sourceTree = "<group>"; };
-=======
-		7B449F391D6FEF1B0015413B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		7B449F3A1D6FEF1B0015413B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		7B449F3D1D6FEF1B0015413B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		7B449F3F1D6FEF1B0015413B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		7B449F421D6FEF1B0015413B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		7B449F441D6FEF1B0015413B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
->>>>>>> 42ad9344206ec022315e49f4bbcf13a149503d3f
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,7 +92,6 @@
 			children = (
 				7B449F361D6FEF1B0015413B /* AppDelegate.h */,
 				7B449F371D6FEF1B0015413B /* AppDelegate.m */,
-<<<<<<< HEAD
 				7BB8620D1D7436CB00E24A1A /* SJMacro */,
 				7BB8620A1D7436CB00E24A1A /* SJCommon */,
 				7BB862271D7436CC00E24A1A /* SJViewController */,
@@ -118,14 +101,6 @@
 				7BB8621A1D7436CC00E24A1A /* SJResource */,
 				7BB8621C1D7436CC00E24A1A /* SJThridParty */,
 				7BB862241D7436CC00E24A1A /* SJUtilities */,
-=======
-				7B449F391D6FEF1B0015413B /* ViewController.h */,
-				7B449F3A1D6FEF1B0015413B /* ViewController.m */,
-				7B449F3C1D6FEF1B0015413B /* Main.storyboard */,
-				7B449F3F1D6FEF1B0015413B /* Assets.xcassets */,
-				7B449F411D6FEF1B0015413B /* LaunchScreen.storyboard */,
-				7B449F441D6FEF1B0015413B /* Info.plist */,
->>>>>>> 42ad9344206ec022315e49f4bbcf13a149503d3f
 				7B449F331D6FEF1B0015413B /* Supporting Files */,
 			);
 			path = SJBaseOCProject;
@@ -134,16 +109,12 @@
 		7B449F331D6FEF1B0015413B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-<<<<<<< HEAD
 				7B449F441D6FEF1B0015413B /* Info.plist */,
-=======
->>>>>>> 42ad9344206ec022315e49f4bbcf13a149503d3f
 				7B449F341D6FEF1B0015413B /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-<<<<<<< HEAD
 		7BB8620A1D7436CB00E24A1A /* SJCommon */ = {
 			isa = PBXGroup;
 			children = (
@@ -250,8 +221,6 @@
 			path = SJViewController;
 			sourceTree = "<group>";
 		};
-=======
->>>>>>> 42ad9344206ec022315e49f4bbcf13a149503d3f
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -309,16 +278,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-<<<<<<< HEAD
 				7BB862331D7436CC00E24A1A /* AddressChoicePickerView.xib in Resources */,
 				7B449F431D6FEF1B0015413B /* LaunchScreen.storyboard in Resources */,
 				7BB862311D7436CC00E24A1A /* testPdf.PDF in Resources */,
 				7B449F401D6FEF1B0015413B /* Assets.xcassets in Resources */,
 				7BB862351D7436CC00E24A1A /* AreaPlist.plist in Resources */,
-=======
-				7B449F431D6FEF1B0015413B /* LaunchScreen.storyboard in Resources */,
-				7B449F401D6FEF1B0015413B /* Assets.xcassets in Resources */,
->>>>>>> 42ad9344206ec022315e49f4bbcf13a149503d3f
 				7B449F3E1D6FEF1B0015413B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -330,7 +294,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-<<<<<<< HEAD
 				7BB8622F1D7436CC00E24A1A /* WGS84TOGCJ02.m in Sources */,
 				7BB862451D74388700E24A1A /* SJBaseModel.m in Sources */,
 				7BB862321D7436CC00E24A1A /* AddressChoicePickerView.m in Sources */,
@@ -340,10 +303,6 @@
 				7BB862421D7437FF00E24A1A /* SJCommonObj.m in Sources */,
 				7BB8623A1D74373000E24A1A /* ViewController.m in Sources */,
 				7BB862361D7436CC00E24A1A /* JYUtilities.m in Sources */,
-=======
-				7B449F3B1D6FEF1B0015413B /* ViewController.m in Sources */,
-				7B449F381D6FEF1B0015413B /* AppDelegate.m in Sources */,
->>>>>>> 42ad9344206ec022315e49f4bbcf13a149503d3f
 				7B449F351D6FEF1B0015413B /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -357,10 +316,7 @@
 				7B449F3D1D6FEF1B0015413B /* Base */,
 			);
 			name = Main.storyboard;
-<<<<<<< HEAD
 			path = ..;
-=======
->>>>>>> 42ad9344206ec022315e49f4bbcf13a149503d3f
 			sourceTree = "<group>";
 		};
 		7B449F411D6FEF1B0015413B /* LaunchScreen.storyboard */ = {
@@ -369,10 +325,7 @@
 				7B449F421D6FEF1B0015413B /* Base */,
 			);
 			name = LaunchScreen.storyboard;
-<<<<<<< HEAD
 			path = ..;
-=======
->>>>>>> 42ad9344206ec022315e49f4bbcf13a149503d3f
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -503,10 +456,7 @@
 				7B449F491D6FEF1B0015413B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-<<<<<<< HEAD
 			defaultConfigurationName = Release;
-=======
->>>>>>> 42ad9344206ec022315e49f4bbcf13a149503d3f
 		};
 /* End XCConfigurationList section */
 	};
